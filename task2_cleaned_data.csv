@@ -224,6 +224,7 @@ checkout_id,member_id,book_id,checkout_date,return_date,first_name,last_name,gra
 9327.0,1065,513,2025-03-09,2025-04-01,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,Circuits for Beginners,Galal Mounir,Science,294,2021.0,Oasis Books,database,True
 9273.0,1047,510,2024-12-07,2025-01-05,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,The Missing Metronome,Diaa Sultan,Mystery,134,2013.0,Cairo Young Readers,database,True
 9301.0,1062,519,2024-11-10,2024-11-23,Tarek,Adel,7.0,Zamalek,Active,2023-01-22,Kites Over Cairo,Jasmine Wahdan,Friendship,157,2014.0,Nile Press,database,True
+9296.0,1065,501,2024-12-15,2025-01-11,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,The Silver Kite,Amina Darwish,Adventure,128,2017.0,Nile Press,database,True
 9074.0,1003,501,2024-06-19,2024-07-06,Bassel,Hegazy,6.0,Maadi,Active,2025-04-23,The Silver Kite,Amina Darwish,Adventure,128,2017.0,Nile Press,database,True
 9368.0,1079,525,2025-02-12,2025-03-10,Rana,Osman,8.0,Shubra,Active,2024-10-27,Storms and Sailboats,Mahmoud Rafei,Adventure,297,2015.0,Oasis Books,database,True
 9233.0,1059,512,2024-12-08,2024-12-15,Lina,Halim,7.0,Heliopolis,Active,2024-01-06,The Cartographer's Cat,Farida Anwar,Adventure,238,2022.0,Delta House,database,True
@@ -276,6 +277,7 @@ checkout_id,member_id,book_id,checkout_date,return_date,first_name,last_name,gra
 9076.0,1008,529,2025-12-12,2025-12-20,Ziad,Saleh,8.0,Maadi,active,2025-10-28,Riddles of the Red Sea,Sara Tantawy,Mystery,298,,Cairo Young Readers,database,True
 9265.0,1049,513,2024-08-12,2024-09-10,Ahmed,Gamal,6.0,Heliopolis,Active,2023-06-10,Circuits for Beginners,Galal Mounir,Science,294,2021.0,Oasis Books,database,True
 9258.0,1050,529,2025-12-07,2025-12-21,Fares,Adel,6.0,Heliopolis,inactive,2025-09-10,Riddles of the Red Sea,Sara Tantawy,Mystery,298,,Cairo Young Readers,database,True
+9180.0,1034,529,2024-07-27,2024-08-02,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,Riddles of the Red Sea,Sara Tantawy,Mystery,298,,Cairo Young Readers,database,True
 9203.0,1057,501,2025-10-25,,Ahmed,Fahmy,8.0,Heliopolis,Active,2024-01-12,The Silver Kite,Amina Darwish,Adventure,128,2017.0,Nile Press,database,True
 9041.0,1010,506,2025-02-22,2025-03-19,Nour,Nabil,6.0,Maadi ,Active,2024-05-15,The Paper Boat Club,Aya Hafez,Friendship,183,,Nile Press,database,True
 9154.0,1030,525,2025-05-18,2025-05-26,Reem,Osman,,Nasr City,Active,2025-04-01,Storms and Sailboats,Mahmoud Rafei,Adventure,297,2015.0,Oasis Books,database,True
@@ -298,6 +300,7 @@ checkout_id,member_id,book_id,checkout_date,return_date,first_name,last_name,gra
 9032.0,1011,501,2024-11-24,2024-12-11,Menna,Halim,8.0,Maadi,Active,2024-04-22,The Silver Kite,Amina Darwish,Adventure,128,2017.0,Nile Press,database,True
 9289.0,1072,522,2025-09-09,2025-09-19,Seif,Zaki,9.0,Zamalek,Active,2025-10-21,The Puzzle Merchant,Karim Elwy,Mystery,104,2016.0,Cairo Young Readers,database,True
 9138.0,1039,516,2025-08-22,2025-08-31,Nada,Riad,7.0,Nasr City,active,,The Beekeeper's Almanac,Hoda Bakry,Nature,241,2010.0,Nile Press,database,True
+9334.0,1065,507,2025-12-20,2026-01-05,Adam,Fahmy,6.0,Zamalek,Active,2025-07-12,Fossils and Fireflies,Dalia Serry,Science,160,2024.0,Nile Press,database,True
 9306.0,1074,510,2024-08-03,2024-08-10,Mostafa,Saleh,8.0,Zamalek,Active,2025-11-21,The Missing Metronome,Diaa Sultan,Mystery,134,2013.0,Cairo Young Readers,database,True
 9239.0,1050,519,2025-02-10,2025-02-22,Fares,Adel,6.0,Heliopolis,inactive,2025-09-10,Kites Over Cairo,Jasmine Wahdan,Friendship,157,2014.0,Nile Press,database,True
 9226.0,1044,519,2025-03-18,,Sherif,Saleh,7.0,Heliopolis,active,2024-02-19,Kites Over Cairo,Jasmine Wahdan,Friendship,157,2014.0,Nile Press,database,True
@@ -329,6 +332,7 @@ checkout_id,member_id,book_id,checkout_date,return_date,first_name,last_name,gra
 9246.0,1044,529,2025-06-25,2025-07-04,Sherif,Saleh,7.0,Heliopolis,active,2024-02-19,Riddles of the Red Sea,Sara Tantawy,Mystery,298,,Cairo Young Readers,database,True
 9308.0,1072,525,2024-02-17,2024-03-12,Seif,Zaki,9.0,Zamalek,Active,2025-10-21,Storms and Sailboats,Mahmoud Rafei,Adventure,297,2015.0,Oasis Books,database,True
 9321.0,1070,501,2025-12-28,2026-01-09,Ahmed,Zaki,9.0,Zamalek,Active,2025-07-22,The Silver Kite,Amina Darwish,Adventure,128,2017.0,Nile Press,database,True
+9194.0,1024,513,2024-09-17,2024-10-09,Youssef,Hegazy,8.0,Nasr City,inactive,2024-01-04,Circuits for Beginners,Galal Mounir,Science,294,2021.0,Oasis Books,database,True
 9045.0,1008,520,2024-05-28,,Ziad,Saleh,8.0,Maadi,active,2025-10-28,The Copper Telescope,Jasmine Wahdan,Science Fiction,136,2009.0,Oasis Books,database,True
 9219.0,1047,506,2025-05-13,2025-06-07,Sara,Rashad,,Heliopolis,Inactive,2024-06-25,The Paper Boat Club,Aya Hafez,Friendship,183,,Nile Press,database,True
 9002.0,1020,515,2024-12-06,2024-12-11,Rana,Fouad,6.0,Maadi,Active,2025-12-04,Songs of the Oasis,Hoda Bakry,Poetry,316,2022.0,Cairo Young Readers,database,True
@@ -352,6 +356,7 @@ checkout_id,member_id,book_id,checkout_date,return_date,first_name,last_name,gra
 9098.0,1008,525,2024-12-15,2024-12-31,Ziad,Saleh,8.0,Maadi,active,2025-10-28,Storms and Sailboats,Mahmoud Rafei,Adventure,297,2015.0,Oasis Books,database,True
 9106.0,1034,501,2025-08-20,2025-08-27,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,The Silver Kite,Amina Darwish,Adventure,128,2017.0,Nile Press,database,True
 9170.0,1034,522,2025-10-16,2025-10-28,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,The Puzzle Merchant,Karim Elwy,Mystery,104,2016.0,Cairo Young Readers,database,True
+9052.0,1019,501,2024-06-20,2024-06-29,Mostafa,Wahba,6.0,Maadi,Inactive,2024-07-20,The Silver Kite,Amina Darwish,Adventure,128,2017.0,Nile Press,database,True
 9028.0,1017,507,2025-01-19,2025-01-28,Adam,Badr,9.0,Maadi,Active,2025-07-12,Fossils and Fireflies,Dalia Serry,Science,160,2024.0,Nile Press,database,True
 9081.0,1017,502,2025-08-25,2025-09-17,Adam,Badr,9.0,Maadi,Active,2025-07-12,Desert Compass,Amina Darwish,Adventure,109,2018.0,Delta House,database,True
 9223.0,1050,510,2024-04-11,2024-05-04,Fares,Adel,6.0,Heliopolis,inactive,2025-09-10,The Missing Metronome,Diaa Sultan,Mystery,134,2013.0,Cairo Young Readers,database,True
@@ -369,8 +374,10 @@ checkout_id,member_id,book_id,checkout_date,return_date,first_name,last_name,gra
 9281.0,1044,525,2024-06-01,2024-06-12,Sherif,Saleh,7.0,Heliopolis,active,2024-02-19,Storms and Sailboats,Mahmoud Rafei,Adventure,297,2015.0,Oasis Books,database,True
 9039.0,1018,513,2024-07-21,2024-08-10,Ahmed,Shafik,9.0,Maadi,Active,2023-01-28,Circuits for Beginners,Galal Mounir,Science,294,2021.0,Oasis Books,database,True
 9083.0,1011,516,2025-10-02,2025-10-09,Menna,Halim,8.0,Maadi,Active,2024-04-22,The Beekeeper's Almanac,Hoda Bakry,Nature,241,2010.0,Nile Press,database,True
+9193.0,1034,519,2024-09-15,2024-10-01,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,Kites Over Cairo,Jasmine Wahdan,Friendship,157,2014.0,Nile Press,database,True
 9088.0,1003,519,2025-09-17,2025-10-03,Bassel,Hegazy,6.0,Maadi,Active,2025-04-23,Kites Over Cairo,Jasmine Wahdan,Friendship,157,2014.0,Nile Press,database,True
 9176.0,1027,501,2024-11-08,2024-11-26,Mostafa,Fouad,9.0,Nasr City,Active,2023-09-25,The Silver Kite,Amina Darwish,Adventure,128,2017.0,Nile Press,database,True
+9280.0,1054,517,2024-09-06,2024-09-15,Retaj,Fahmy,6.0,Heliopolis,Inactive,2024-03-21,Shadows on the Corniche,Hani Nagati,Mystery,338,2015.0,Delta House,database,True
 9054.0,1013,510,2024-11-21,,Ziad,Fouad,,Maadi,Active,2025-06-27,The Missing Metronome,Diaa Sultan,Mystery,134,2013.0,Cairo Young Readers,database,True
 9134.0,1037,516,2025-09-08,2025-09-19,Retaj,Kamel,,Nasr City,Inactive,2023-08-26,The Beekeeper's Almanac,Hoda Bakry,Nature,241,2010.0,Nile Press,database,True
 9164.0,1034,507,2024-12-02,2024-12-12,Aya,Wahba,9.0,Nasr City,Active,2025-01-22,Fossils and Fireflies,Dalia Serry,Science,160,2024.0,Nile Press,database,True
@@ -382,6 +389,7 @@ checkout_id,member_id,book_id,checkout_date,return_date,first_name,last_name,gra
 9084.0,1008,511,2024-06-27,2024-07-22,Ziad,Saleh,8.0,Maadi,active,2025-10-28,Winter in Alexandria,Farida Anwar,Historical,117,2016.0,Nile Press,database,True
 9116.0,1024,519,2025-01-10,2025-02-09,Youssef,Hegazy,8.0,Nasr City,inactive,2024-01-04,Kites Over Cairo,Jasmine Wahdan,Friendship,157,2014.0,Nile Press,database,True
 9352.0,1076,501,2025-02-02,,Dina,Wahba,7.0,Shubra,Active,2025-12-13,The Silver Kite,Amina Darwish,Adventure,128,2017.0,Nile Press,database,True
+9246.0,1044,529,2025-06-25,2025-07-04,Sherif,Saleh,7.0,Heliopolis,active,2024-02-19,Riddles of the Red Sea,Sara Tantawy,Mystery,298,,Cairo Young Readers,database,True
 ,1026,522,2025-07-11,,Nada,Saleh,7.0,Nasr City,inactive,2023-11-16,The Puzzle Merchant,Karim Elwy,Mystery,104,2016.0,Cairo Young Readers,reading_kickoff,True
 ,1049,520,2025-07-11,,Ahmed,Gamal,6.0,Heliopolis,Active,2023-06-10,The Copper Telescope,Jasmine Wahdan,Science Fiction,136,2009.0,Oasis Books,reading_kickoff,True
 ,1062,525,2025-07-05,,Tarek,Adel,7.0,Zamalek,Active,2023-01-22,Storms and Sailboats,Mahmoud Rafei,Adventure,297,2015.0,Oasis Books,reading_kickoff,True
