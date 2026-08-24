@@ -1,0 +1,10 @@
+ff69656 Fix: apply Problem 2 and 3 cleaning properly to task2_cleaned_data.csv
+184af76 done Task 2 , i make the task2_cleaned_data.csv
+1312449 Merge branch 'main' of https://github.com/solapop412010-tech/EYOUTH-31001040105446.ipynb
+d7ddc5a done Task 1 , i make the task1_combined_data.csv
+55acb7a Remove unnecessary Colab default files
+6d7faae I Make the first connection between github and my notebook
+0b6f8b4 done Task 2 , i make the task2_cleaned_data.csv
+aabdd01 done Task 1 , i make the task1_combined_data.csv
+8e5478d Remove unnecessary Colab default files
+c86f233 I Make the first connection between github and my notebook
